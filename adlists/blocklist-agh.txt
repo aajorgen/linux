@@ -243,8 +243,6 @@
 ||assets.zgi.flarecloud.net^
 ||message.api.flarecloud.net^
 ||ecsv2.roblox.com^
-||discord.gg^
-||discord.com^
 ||cdn.discordapp.com^
 ||service-aggregation-layer.juno.ea.com^
 ||autopatch.juno.ea.com^
